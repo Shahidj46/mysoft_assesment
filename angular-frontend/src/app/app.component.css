@@ -1,0 +1,19 @@
+.nav{
+    background-color: rgb(146, 181, 233);
+    padding-left: 50px;
+    height: 40px;
+}
+.footer{
+    background-color: rgb(31, 29, 29);
+    color: white;
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+p{
+    margin-top: 5px;
+}
+
